@@ -1,6 +1,6 @@
 nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:registry.cn-hangzhou.aliyuncs.com/kafka520/kafka
+k8s.gcr.io/kube-state-metrics/kube-state-metrics:https://github.com/Tafkaworld/docker_image_pusher
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
